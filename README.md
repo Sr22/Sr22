@@ -1,4 +1,4 @@
-## About me 🙋🏽‍♀️
+## About Me 🙋🏽‍♀️
 
 
 Hi! My name is Shayla Rao, I'm a Software Developer and an aspiring Data Analyst. I graduated with a B.S. in Computer Science with Bioinformatics from Oregon State University in June 2022. I'm familiar with SQL, Python and R and teaching myself Tableau and PowerBi. 
