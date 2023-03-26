@@ -1,16 +1,28 @@
-### Hi there 👋
+## About me 🙋🏽‍♀️
 
-<!--
-**Sr22/Sr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! My name is Shayla Rao, I'm a Software Developer and an aspiring Data Analyst. I graduated with a B.S. in Computer Science with Bioinformatics from Oregon State University in June 2022. I'm familiar with SQL, Python and R and teaching myself Tableau and PowerBi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects 💻
+Checkout my data analysis and software development projects <-[insert link to projects page]
+
+### My Skills 💡
+* [Insert Skills]
+
+### My Tools 🛠
+* Programming Languages: SQL, Python, R, Java, JavaScript, C, C++, HTML, CSS
+* Visualization: PowerBi, Tableau
+
+### My Certifications 📚
+* [insert certifications]
+
+### My Resume 📄
+* Resume
+
+### Let's Connect! 🤝🏼
+* [Linkedin](https://www.linkedin.com/in/shayla-rao/)
+* Email: shayla.rao@gmail.com
+
+
+
+
