@@ -18,7 +18,8 @@ Hi! My name is Shayla Rao, I'm a Software Developer and an aspiring Data Analyst
 * [insert certifications]
 
 ### My Resume 📄
-* Resume
+* [Resume](https://github.com/shaylarao/resume/blob/main/Shayla_Rao_Resume.pdf)
+
 
 ### Let's Connect! 🤝🏼
 * [Linkedin](https://www.linkedin.com/in/shayla-rao/)
