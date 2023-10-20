@@ -19,7 +19,6 @@ Hi! My name is Shayla Rao, I'm a Software Developer and an aspiring Product Mana
 
 ### Let's Connect! ✨
 * [Linkedin](https://www.linkedin.com/in/shayla-rao/)
-* [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox?compose=new)
 
 
 
