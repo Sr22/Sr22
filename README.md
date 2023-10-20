@@ -17,9 +17,9 @@ Hi! My name is Shayla Rao, I'm a Software Developer and an aspiring Product Mana
 ### My Resume 📄
 * [Resume](https://github.com/shaylarao/resume/blob/main/Shayla_Rao_Resume.pdf)
 
-### Let's Connect! 🤝🏼
+### Let's Connect! ✨
 * [Linkedin](https://www.linkedin.com/in/shayla-rao/)
-* [Email](shayla.rao@gmail.com)
+* [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl&pli=1#inbox?compose=new)
 
 
 
