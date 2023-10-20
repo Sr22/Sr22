@@ -15,7 +15,8 @@ Hi! My name is Shayla Rao, I'm a Software Developer and an aspiring Product Mana
 * Project Management: JIRA, Trello
 
 ### My Certifications 📚
-* [insert certifications]
+* [Google Data Analytics Certificate](![image](https://github.com/shaylarao/shaylarao/assets/11083380/e89ae833-9ec8-4daf-9492-e9425b3b3b0d)
+
 
 ### My Resume 📄
 * [Resume](https://github.com/shaylarao/resume/blob/main/Shayla_Rao_Resume.pdf)
