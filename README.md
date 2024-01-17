@@ -18,7 +18,7 @@ Hi! My name is Shayla Rao, I'm a Software Developer and I graduated with a B.S. 
 * [Google Data Analytics Certificate](https://coursera.org/share/6ab9663a4fabf8c28d4dfaf83724d43e)
 
 ### My Resume 📄
-* [Resume](https://github.com/shaylarao/resume/blob/main/Shayla_Rao_Resume.pdf)
+* [Resume](https://github.com/shaylarao/resume/blob/main/Shayla_Rao_Resume_2024.pdf)
 
 ### Let's Connect! ✨
 * [Linkedin](https://www.linkedin.com/in/shayla-rao/)
