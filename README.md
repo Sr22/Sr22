@@ -16,6 +16,7 @@ Hi! My name is Shayla Rao, I'm a Software Developer and I graduated with a B.S. 
 
 ### My Certifications 📚
 * [Google Data Analytics Certificate](https://coursera.org/share/6ab9663a4fabf8c28d4dfaf83724d43e)
+* [Google Project Management Certificate](https://coursera.org/share/763d65ac82989531243ce8ec1e0fb110)
 
 ### My Resume 📄
 * [Resume](https://github.com/shaylarao/resume/blob/main/Shayla_Rao_Resume_2024.pdf)
